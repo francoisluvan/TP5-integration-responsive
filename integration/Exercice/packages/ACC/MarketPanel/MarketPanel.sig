@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Signature Version="1.0">
+  <pima>
+    <FileName>MarketPanel.pima</FileName>
+    <FileSize>190</FileSize>
+    <CheckSum>YVJHfjX52D6Gj9bPabdYndpkjVSVfxbkzSBTouZdbvGhP6wFWzGDTkb742yXcw4JOT28eoPb/r5RAzF/oL4X5awRQzdqBf58eJI1CiSpZ99GwHKkW8OoqQRj+TZkCwPJfBOZyIwZ2YJIZg2bEISIDQ53Yf65oTEMJ59Ar48xkti/dWmJL37VCokONdmmFDErifVUXoajpA+V/n+uWeecAfKb+/VA3pA4NjDIsEA5EmgOIz0YQUqvm1YW+4PyOgsfRSJVKJZl9Y+r+/vNV3Q6606eWQzQviN0pUb+G8JXYz5aI/1M89jbm211kHOmXjd39X6r9vEk38pyuU4W96xjoAL2x4YX8BIDE7f3Zi5MC2+35vSZTeQYv/c8y5/U/ZgYDd9ik4clcSzbLfz5nkIxszeuNWqvFk2vCkufA/0pMaPEanEgmLP60mBAT/OPR7ZKu0cWPHyDvhxmCfG620siumVeKZ0wKPBKmxMjJY/H8xIPziqe6LNgQoTttNIJl90v</CheckSum>
+  </pima>
+  <pimx>
+    <FileName>MarketPanel.pimx</FileName>
+    <FileSize>1090</FileSize>
+    <CheckSum>ocSj3eTkScYqRdcHzS85CORxG8Fk55xY2UzglttFHzUzLc9Mpb/23T7aIiL8uj24624TzPvd0ZK+VGtv+kLItxpY4dObY+9CzGBrJik6LWdCIb2OfFJAYS949gIuy1kB0jKgZb3y+KHALa108MYoREJZQnycOhTc2AX2uuiZsn6vqzHhgHtAArn8kyPe7iNhXDDCU68ikrcJAEFjUHU7zuEnFK9gWHaC10/noSNIjXR9DFN1Kguvsto30IFgbAuk1pp7leXctFvzAEwqPpcFVUj3zJGQyEJ0ke0ZRb2AJLSvpM0yY1uyWRhTYendeLZ9x1mUpgot+UZxC5NyNQQ2E1XfW70o/tDL+fB6FBADGgtAQXzSQHiI+IwMzfENOl/Ne64kmJt2+ANeqQIqb5j93ZLPrWUYjMzpAc8GpzlFdfdkyrOZnpvk9Wc2IjXXZvq437LMt0YyhFtjBABZQg3IvaoanFHaMjIl48CMmhZ+YRqHqQWyHX4VM0Qb+N50u1vy</CheckSum>
+  </pimx>
+  <Sig>vY7q2RdbJCw89SIUKHNZXe6k99mKyawNcKfOb1//EJ32H4SHXlp+OFSldjKoszteDEQ65dc5Wt8EoXQEOSfK5qnYQX7s2TRtYsGLsnfCHsWCGAJJ2iBOT+N07rh/GNfSW0/vfRlEbrfltnRiMoR/IiOltW/Ubcmw7+f+WeMtfIjRNJCm5h9hYOmK+SrOMH3VJ/ltVitKYE+X8y37H9Mwpr1/fBEdVlE5NdliV3TFJV0H5JSDqdwfAJR7PXFuRquEshHY3aajMkuGxTAvS6YR8jGfYHfMMELfiPLrdBEbGTSw4juGkszkkU/wZEBplwGP9L6rZeU9IDPJTA1GKfzyxhVKoDu9k9i/71H+JQewtnkZR6S8rOYFxNAqVbdNxXGxqBZCXkJNN2/30L4pbU9gWaDugyavNScUDLcccmBGML0V06e1MgtWuxao/y3Nv++nUi5KLgENMSDaF0Ht8jTuhofkq1Lm5hug252m+mioqBdHFHlIBAVcgC2p6AfWIZtk</Sig>
+</Signature>

@@ -1,0 +1,25 @@
+<package_installation_info version="2.0">	
+<packageid>675F500C-C9A4-4FBD-A7A0-26F3A11938D4</packageid> 
+  <name>AdobeGenuineClient</name>
+<version>4.8.1.435</version>
+	<target_location>/AdobeGenuineClient/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>AdobeGenuineClient</name>
+			<assets_size>5116132</assets_size>
+			<modifiers>
+				<install_modifier>
+					   <executable_path>customhook\gccustomhook.exe</executable_path>
+						<arguments>
+							<argument>--source=ADC</argument>
+						</arguments>
+			   </install_modifier>
+		    </modifiers>
+            <validation_info>
+                <validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PEZpbGU+PEluc3RhbGxQYXRoPkFHU1NlcnZpY2UuZXhlPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIFN5c3RlbXMgSW5jb3Jwb3JhdGVke3x9RGlnaUNlcnQgRVYgQ29kZSBTaWduaW5nIENBIChTSEEyKXt8fURpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjxGaWxlPjxJbnN0YWxsUGF0aD5jdXN0b21ob29rXGdjY3VzdG9taG9vay5leGU8L0luc3RhbGxQYXRoPjxTaWduYXR1cmVUeXBlPkRpZ2l0YWxTaWduYXR1cmU8L1NpZ25hdHVyZVR5cGU+PFNpZ25hdHVyZUluZm8+QWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0ZWR7fH1EaWdpQ2VydCBFViBDb2RlIFNpZ25pbmcgQ0EgKFNIQTIpe3x9RGlnaUNlcnQgSGlnaCBBc3N1cmFuY2UgRVYgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PC9WYWxpZGF0aW9uSW5mbz4=</validation_xml>
+                <sig>m55Ziy7gcFC2R+3EQEBRC7cdH0Qr8s0VIfRzh1U0Kfgj0enP3RSAa7/VQW9Ff+THPI4uBFp0v9Cz0VKAmH8Sv7h3SDUs1+OB5iXAcpWWZuFlEUZTORk3WdMOfwjGaetEHTFXznGlCOkYg5mh8u0c0VI3Vvg6GEjKwnWk7t8fDN27WCBDmqiNpkPePJKkuBcrreKSylt9CXdp2TUpnZ5uLvKmIpbMYuaPjXixMBCYa4GFuIvBqqqLO3pO59PKRlHRrSh6gJuPvHUe35utgdlozUsaZvzXNiOGVRP3U/fPSzTPfNnempXaf9F9KfLur3DysqYUAV4RBNMPSwhlD8Lf29aI+jeJoSwAq436ELYi13AY3624L3UNjgzgLX27OK3RciNItLQavLhqeAEiAsNctamuIdxxeq1TQ6trzxpS1WJKrA2EN5CMWXChVp4mcfcHtqsavh6yNk6wrgva2YIQTjHQqrY4xaixaJHyyhjJVPiBx736WB7CnwYF3SoelLvQ</sig>
+            </validation_info>
+        </pimaInfo>
+    </packages>
+</package_installation_info>

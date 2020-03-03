@@ -1,0 +1,182 @@
+html {
+  font-family:"open sans";
+}
+
+@media screen and (min-width: 800px){
+
+    footer, header, nav {
+      width:100%;
+    }
+
+    header img {
+      z-index: 0;
+    }
+
+    nav {
+      top:0;
+    }
+
+    .bloc1, .bloc2, .bloc3 {
+      width:100%;
+    }
+
+    .bloc1 {
+      position:absolute;
+      height:100%;
+    }
+
+    #navcontainer,ul {
+      z-index: 2;
+      display:flex;
+      justify-content: center;
+      position:relative;
+
+    }
+
+    #navcontainer ul {
+      display:flex;
+      flex-direction: row;
+      list-style-type: none;
+      margin:0px;
+      padding:0px;
+    }
+
+    #navcontainer a {
+      display: flex;
+      text-decoration: none;
+      color:white;
+      padding: 0.5em;
+
+    }
+
+    #navcontainer a:hover{
+      color:grey;
+    }
+
+    #jeveuxdescolonnes{
+      position:relative;
+      display:flex;
+      width:100%;
+    }
+
+    #section3{
+      display:flex;
+      flex-direction:row;
+      width:100%;
+    }
+
+    .photo {
+      width:100%;
+    }
+
+    #jeveuxdescolonnes div {
+      justify-content: center;
+
+    }
+    section,header {
+      position: relative;
+    }
+
+    #navigation {
+      display:none;
+    }
+    h1 {
+      color:#088ca5;
+    }
+}
+
+@media screen and (max-width: 800px){
+
+  h1 {
+    color:#088ca5;
+  }
+
+  footer, header, nav {
+    width:100%;
+  }
+
+  header img {
+    z-index: 0;
+
+  }
+
+  nav {
+    top:0;
+  }
+
+  .bloc1, .bloc2, .bloc3 {
+    width:100%;
+  }
+
+  .bloc1 {
+    position:absolute;
+    height:100%;
+  }
+
+  #navcontainer,ul {
+    z-index: 2;
+    display:flex;
+    justify-content: center;
+    position:relative;
+
+
+  }
+
+  #navcontainer ul {
+    display:flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+  }
+
+  #navcontainer a {
+    display: flex;
+    text-decoration: none;
+    color:white;
+    padding: 0.5em;
+
+  }
+
+  #navcontainer a:hover{
+    color:grey;
+  }
+
+  #jeveuxdescolonnes{
+    position:relative;
+    display:flex;
+    width:100%;
+  }
+
+  #section3{
+    display:flex;
+    flex-direction: column;
+    width:100%;
+  }
+
+  .photo {
+    width:100%;
+  }
+
+  #jeveuxdescolonnes div {
+    justify-content: center;
+
+  }
+  section,header {
+    position: relative;
+  }
+
+  .paragraphe {
+    display:none;
+  }
+  #navcontainer {
+    display:none;
+  }
+  #navigation {
+    z-index: 6;
+    color:white;
+    position:relative;
+    text-align: center;
+  }
+
+}

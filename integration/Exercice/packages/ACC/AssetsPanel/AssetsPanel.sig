@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Signature Version="1.0">
+  <pima>
+    <FileName>AssetsPanel.pima</FileName>
+    <FileSize>190</FileSize>
+    <CheckSum>MV7WyzgWMaQFMqUZ0HDFjyIuVrZQ3dZFg+TWDyfIltMpyYaoW0quSwyPlxuB9N1mvq5jHot/AeXOJy2+0CUR/BjJGxm1Fqn+oKtxx7HXAAJHCvkMcjA0/SThGYMqPS0q9yJ/UtJf3w+6HrUEg6suiTy/WNeTbld2f5uHRyzWzGx0Q+Ix/BHHdrJavp3UlbNtj+7FUClIsRIycbdFVUJq+d8HODZTA4UVjAlAZju7Q6gxNef1AUflJ7XbLtL7LgyfBcqTeR4AFcJhzpJ8MkQlIyu7PCFKJRTX6cSTHxlsAYWsExIHaU+ppgHfjbItf04CQvHYbyY69eauWyAB/bfGS6ZjEUd7HHfrjvvzIvxa9+YX4QnVNwpvE6WK0iuasUIfXeFv4c6bK6uHL48T5I6DBRlI6c04WdSxNv9m8+mQB8BPuHquHTcHvIeonqiRJUy5vn/JSYK7WH34xOGlMxBm611fUYaxk6uwulN7CfHgwsgG9EYXmM33zYbTx+IINKvO</CheckSum>
+  </pima>
+  <pimx>
+    <FileName>AssetsPanel.pimx</FileName>
+    <FileSize>1090</FileSize>
+    <CheckSum>WGPNxLuLTLxzkVg3xkckPPfommYCVGrtwvWEeKCHrR6GtBbddgKPSSN5L8jLlPA4jACeoMk10u3ZY7wDTWCaXq/549pckfMPv04C65uPjwuiNWO3yklTLUL3XCo86xCdjIt1g7OF5eTaX4WXWDeKvdZ/NFbJBELTGSqnSB3VaQl2TLp7QwUSrIB61Pr9/MkId+IWTKg+pyTKaYibibGtIQ/JB1xLWWAnilRzQFFh57nN4Ua+87Gsb9zMnmKM+jmRW3bpM6wAZepEuq+7gEWPYs4ZK0TxvJWaUk4JSllLwkJH/5AwxAm6ayJkZXiFcL4JlxBHXIe7aAEX9GuKjDyiKuf9C2S0F2/aUREUEnNKlcVQZDDpyKrRZd7Wo/Wh5nv1/XB5wWlswe8Ua+aAiENhWyjWrM9OQUWS6Dfi2AKPpf19v1aiYAQswS7SJVqreRZDDYpYihG2A8WFrvIjn626Rvp6guXpASN3AeKxyfHGH2V17lnnF81B6TuONfaHepc6</CheckSum>
+  </pimx>
+  <Sig>RBtTF1vsozzEqqoqX/uLjDaN4eaj8Pei0QhQEBPA3d6zSNYu/Ssd0thszt/CAMOo7z+23NSILYnMMIPGPte3e2iZn+R6/EqKsCYHZvxtUF+CV/pnH1l8hnGy9WTCK1NhLYAVi3LXERtpX/6mgUuAlUx54Kc+HuQcRwGwLI4lV3MyAKW0/7cA0rQTo+T0qh6WdynTWStSeO2lw4BWZ2iWS/ZCi20Qp6pfSty6ytStcqzuWmUdUUdfsquxERZ8CYu13HHMT8f/A+SIPXfZ4Nkmum3W+E1n4ZGh4bAtXRYbkuQPl7HIaPeikfo1nCBOYjNAqrkKenvDHXIk87hinj1+Ys1haj/TjnZQTC/ce9h7hohxrfqfyvoNd7hQ4O2dsDP2f2oApbbIpgm8dXZIrYvUX8nFViGdvSivxiVt6wsS9QKmrbJutarHEEo2AMjldPDkjOxaT5Vs9yhC4rOPlaYJL1kdFVl021VjGpxSeqVdHWhoaOx1iRnqV5FKrUq82csl</Sig>
+</Signature>

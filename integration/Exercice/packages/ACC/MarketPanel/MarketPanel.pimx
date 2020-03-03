@@ -1,0 +1,17 @@
+<package_installation_info version="2.0">
+<packageid>5CDDA3C6-E247-420F-84E2-C072DD1BCE11</packageid> 
+ 	<name>MarketPanel</name>
+<version>4.8.1.435</version>
+	<target_location>/MarketPanel/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype> 
+			<name>MarketPanel</name>
+			<assets_size>26</assets_size> 	
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8vPg==</validation_xml>
+				<sig>ApuNQdo3q8lApdjFAbQ2zSm3ZzU1IEI5/6P/p7rjqQoPzXWkZMdJ/XJjLh/ewB6TCXIGLsoPW3DkIRO3eJLaodC4E00Y5XU1ah6Ag/j1Hen7T5SyNGOskOhqZZgUaTVNlmrHRJDk5xUxN/MVOCMX1uzfO8QkKvz+PJjBZ0JxLPsE6hlBVt4IWzyRvPcqu43u0za1dux6/Rg8fIREGrUxvL84XaVWkVKx8MiR2ivmBLys9aW1AGnP4jCYC9f5X2SHNNILKpJAbCTEPh33KCU9ST6tbdJBZD1z74w2plxPf695P3H5G/FB4Ime+DSW2TlXZ2EVx1apt0G08Ou1zqUB9VLwqpTUiGC7t8Orr5JxgDuT3+5W1luX+DOAXBhvg5l2MYkktmnJ+sCsHaQsZjh6vrzJqArLXkpK+IRfvt9P0wc01XbjIr60afTCt7WJRFEdLGIbarIo0tJ7LJk33tydjClmQfyPFnvDLFuHaKfV8ggIoQVwZ6h6lViVSHVfxzvH</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

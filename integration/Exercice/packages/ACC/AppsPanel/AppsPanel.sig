@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Signature Version="1.0">
+  <pima>
+    <FileName>AppsPanel.pima</FileName>
+    <FileSize>4195379</FileSize>
+    <CheckSum>QvEcFcYDbx3TTl8ZIu0FTQ4zcPahugYYcjFbX3ulVfoxzRfmcGHTMLqWc/EanWR/P/Z5MOhhqnGTNwQe1z7uEGVC20DAv1IDZsokhpOr95RC3wYQRs03/lDt4uQh5327s29zQ0O2v+QlbHJuI6xjU53Cc1sUvy+Sow/tzf9yoy5szNqtgB1nXDddxDEyMU0B1s8RyLJupXlCtnhVmimlVlcIEuVSzxSDlFscHwlSX+9kvBfBc9cnvSleIB9MSXzy/8EcPGVuHw6rU7b4J0SCaCxSvnfiUCLLJ+MhRheKkgV6MhM9IoSB/WkB/+p8auhOLFdju7xSf+39Eqb935SvRmy/nkSrRYFRIul1OaGMfgB7xKYzCZZ8DVwB7YGNEDvbxxSEtuG3lYdiHT7M4zsohMV8PLLojvdDXwbtsZscpXj+M4+9FRtSRR9vhU9veEXQk0DovvdGpNATKkG2w2lIpk1Afe60mX4u07yvfpjps+uXVQixo4fgLy63+LcT8KCM</CheckSum>
+  </pima>
+  <pimx>
+    <FileName>AppsPanel.pimx</FileName>
+    <FileSize>20377</FileSize>
+    <CheckSum>TixGuYlAMSRUBBQBxGr2wteT5Hb7cNesIGvU1YygyMi4uOMR5O+VKWlzRL/Uet4+V9Z5N7WZE6iThRyDzjZnfv6OysHSR8fJdqdbZdgRMQBGpPWxYd45LzwZSHesLVP3f3pMp7Zjcgr/wLh0XgilbmenAdqSuG4F4UVDiZA39wcphBuNv3FnqCn65Z2lP5+7fgMMtgKI76LFK5Do9WCWHT4txeg+qOauT052uCYcAANFAK7HFbXBayJNkDqk1bD2yEfoLYFmIB8e0JgkW6dHTpKKlOGzOK6YnS3gvigd6nUOzJQgNe3h72tYNNPzoQACPsir6N797KXaOqf7iu7dQ7crNvJvIlFtlDIVqRv4AC/dITfAXOmc8d+IjuV5cQuVQi/xAvByNHdM52egY2/Jn8szPTvBCH3SQPCCIVp+1XeioElfXaYQDvz41urUBEvWvSqRl2DmOU1Bw6fv4kX9/doXTBGnRqI1P6ib4wlEYox7sItl/Lc9bqPMGloSOwW9</CheckSum>
+  </pimx>
+  <Sig>CBdtt6gSFQobp+FqcMpLJ7qilP4xlibgXJe1XHM76Ad/qLL3WE2x6L25Hw7m465xU0OHLRjWBceyzA98elnASJmEizeKnNJTkoSBfFtmb/b5uzz8hhVIOPKwG/IpYCWeZdtKOnFPqwVaFJ9Xsl05N26f0tzDnDg6p1V/W1dmfRzQ9LM4Ox+6ZcZX0SZQ6ax4zAalrNCtOTl9Qghdbr7763ciBw4k3aVhqky1v/tNNSvgbd2XjxXLlFuq1N2fARp2BMKg/TVZ8gYYBN2oSFjC8ewO/z/Z7pThH3R9xscjsEuThxKpvJ/0mbBp+Q/MZPxq6E0OK2u8mwHIAwZnP1s4Tfl20nxnurwRvIyflriAyH0RHY5LtsJEHvoURaj9vm8110pUuvUN1jMzKstC0zscE4Xvnt89aFndHZKAWyugIXAVpfm/j7d1wdnJkebqc22NWNBOL72W+QhHBTTgO0ZPDpaO6uQQ/XC3sueJEO+eDGvOs5Oo4SlFuCJW9ISws5M8</Sig>
+</Signature>

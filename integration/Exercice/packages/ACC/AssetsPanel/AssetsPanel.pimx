@@ -1,0 +1,17 @@
+<package_installation_info version="2.0">
+<packageid>C6696236-DE42-409C-ABB9-3F2066FE40C1</packageid> 
+ 	<name>AssetsPanel</name>
+<version>4.8.1.435</version>
+	<target_location>/AssetsPanel/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype> 
+			<name>AssetsPanel</name>
+			<assets_size>26</assets_size> 	
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8vPg==</validation_xml>
+				<sig>fCcfYxagebrNJyBVAe1QakkI3pBsxxF8u8VW45T6idQc2sto1NCdizGUO9je9F4SFf8yT4AYZVxsY6oX13E6UK76FzS1vXV7kbIxJBcExgGH5Hpxe/ohSVPzxwefgV/orPPBlPMJIAETV1lZbYiHpqPaKiyNjWfGoP1ep3MPcGA8riXATGUVpjcuzHJByWvT/fP8RvinPRFREEzarKXEUEMQJ+APkhPhtNyP29r+1f+J0gM5SrYIFrwzumbIX1SXjrL72KGXA+YQ+DmspbSML04/FufjXqMXfXqv9JL4rS5cNmZxXrXZfeKRQPdhA3loreQUkoiZYkW/tL3I1CUyMnKQN5jM/8Xq1xb0vJjn3Bc7OMSIX1AEGzLJIjKKqqAfXyR8aHnYyHYRouVlvymLJ1Wjkr7X3rtBsS09yTFeHcuIwxp+rwtAtfi2dS7MEcx08iI2zqqllPsegbvPHoeAo+5BIobYbskJpb5lfN3/it+cFGDdEYKBe6lhDBwI/kmE</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

@@ -1,0 +1,31 @@
+<package_installation_info version="2.0">
+<packageid>9ECCBA6F-1DDA-4090-A1F8-BFC243959887</packageid> 
+ 	<name>ADS</name>
+<version>4.8.1.435</version>
+	<target_location>/ADS/</target_location>
+	<packages>
+		<pimaInfo> 
+			<packagetype>zip</packagetype>
+			<name>ADS</name> 
+			<assets_size>4711654</assets_size>
+			<modifiers>
+				<install_modifier>
+					<executable_path>customhook\ADSCustomHook.exe</executable_path>        
+					<arguments>
+						<argument>--install=1</argument>
+					</arguments>  
+				</install_modifier>
+				<uninstall_modifier>
+					<executable_path>customhook\ADSCustomHook.exe</executable_path>        
+					<arguments>
+						<argument>--install=0</argument>
+					</arguments>
+				</uninstall_modifier>
+			</modifiers>
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PEZpbGU+PEluc3RhbGxQYXRoPkFkb2JlIERlc2t0b3AgU2VydmljZS5leGU8L0luc3RhbGxQYXRoPjxTaWduYXR1cmVUeXBlPkRpZ2l0YWxTaWduYXR1cmU8L1NpZ25hdHVyZVR5cGU+PFNpZ25hdHVyZUluZm8+QWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0ZWR7fH1EaWdpQ2VydCBFViBDb2RlIFNpZ25pbmcgQ0EgKFNIQTIpe3x9RGlnaUNlcnQgSGlnaCBBc3N1cmFuY2UgRVYgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PEZpbGU+PEluc3RhbGxQYXRoPkNSQ2xpZW50LmRsbDwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBTeXN0ZW1zIEluY29ycG9yYXRlZHt8fURpZ2lDZXJ0IEVWIENvZGUgU2lnbmluZyBDQSAoU0hBMil7fH1EaWdpQ2VydCBIaWdoIEFzc3VyYW5jZSBFViBSb290IENBPC9TaWduYXR1cmVJbmZvPjwvRmlsZT48RmlsZT48SW5zdGFsbFBhdGg+Q1JMb2dUcmFuc3BvcnQuZXhlPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIFN5c3RlbXMgSW5jb3Jwb3JhdGVke3x9RGlnaUNlcnQgRVYgQ29kZSBTaWduaW5nIENBIChTSEEyKXt8fURpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjxGaWxlPjxJbnN0YWxsUGF0aD5DUldpbmRvd3NDbGllbnRTZXJ2aWNlLmV4ZTwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBTeXN0ZW1zIEluY29ycG9yYXRlZHt8fURpZ2lDZXJ0IEVWIENvZGUgU2lnbmluZyBDQSAoU0hBMil7fH1EaWdpQ2VydCBIaWdoIEFzc3VyYW5jZSBFViBSb290IENBPC9TaWduYXR1cmVJbmZvPjwvRmlsZT48RmlsZT48SW5zdGFsbFBhdGg+Y3VzdG9tSG9va1xBRFNDdXN0b21Ib29rLmV4ZTwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBTeXN0ZW1zIEluY29ycG9yYXRlZHt8fURpZ2lDZXJ0IEVWIENvZGUgU2lnbmluZyBDQSAoU0hBMil7fH1EaWdpQ2VydCBIaWdoIEFzc3VyYW5jZSBFViBSb290IENBPC9TaWduYXR1cmVJbmZvPjwvRmlsZT48L1ZhbGlkYXRpb25JbmZvPg==</validation_xml>
+				<sig>nLkpn3DIPAXMoAFdkvEI3Qjbj2NGZfTauJzITb/9zbBRpDrBViXASVXp0fUkqhrEVTHoQ9scyp31q50aYm6B/F3FXJjkxloOYpnsPxcdzjJwBmyZ4q/LNuQUthGAAUcR8BSo8ksdOWuH0uyMiL2TLvFORAhM49P4KTaj13EWU0rSqpIF4VgZL7BPqbwOEelgl7hHmmkXy9KDadlj3pa7TL/nQBVrY0WDbBPO88RAXc2rZSZ9YnKEYk0Aa6rZsHZA2sfpDQdeC2EzITwJ1uq4oQoXZSZq6L/jnsZw02IujARygsLMhwSZ/CU0UmkNeo8Vi+oHxsZ9Hf51xCHApSYfDZCb9WZk8l4UDTLm+qJmgh5owIv/QCWwN8GBxyI7sEfS34qBvsXKDJXHg02TE3K6gLi6rCINnudjYNaDKcEYbd5HpwNIk3xuGioxXlRlayO1PD+HdwyHtkacoP45AkljrFFRcBexd6UNsQJdsdhNMOQS4YXBdRiyqgwH8sx3v2E1</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>
